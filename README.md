@@ -14,4 +14,4 @@
 
 6、更新管理员权限。经测试，不需要在兼容性的管理员运行打钩也可以正常获取名字
 
-http://yunpan.cn/cw29S2XPP7HD9（访问码：5d56）
+http://pan.baidu.com/s/1pJ06fYN
